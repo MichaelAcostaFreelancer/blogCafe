@@ -12,9 +12,9 @@ incluirTemplate('header');
         <picture>
           <source
             loading="lazy"
-            srcset="img/blog1.webp"
+            srcset="/img/blog1.webp"
             type="image/webp" />
-          <img loading="lazy" src="img/blog1.jpg" alt="imagen blog" />
+          <img loading="lazy" src="/img/blog1.jpg" alt="imagen blog" />
         </picture>
       </div>
 
@@ -35,9 +35,9 @@ incluirTemplate('header');
         <picture>
           <source
             loading="lazy"
-            srcset="img/blog2.webp"
+            srcset="/img/blog2.webp"
             type="image/webp" />
-          <img loading="lazy" src="img/blog2.jpg" alt="imagen blog" />
+          <img loading="lazy" src="/img/blog2.jpg" alt="imagen blog" />
         </picture>
       </div>
 
@@ -58,9 +58,9 @@ incluirTemplate('header');
         <picture>
           <source
             loading="lazy"
-            srcset="img/blog3.webp"
+            srcset="/img/blog3.webp"
             type="image/webp" />
-          <img loading="lazy" src="img/blog3.jpg" alt="imagen blog" />
+          <img loading="lazy" src="/img/blog3.jpg" alt="imagen blog" />
         </picture>
       </div>
 
