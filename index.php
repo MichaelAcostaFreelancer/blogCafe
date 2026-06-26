@@ -90,7 +90,7 @@ incluirTemplate('header');
           Cupo:
           <span class="widget-curso__info">20</span>
         </p>
-        <a href="entrada.php" class="boton boton--secundario">Más Información sobre nuestros cursos</a>
+        <a href="cursos.php" class="boton boton--secundario">Más Información sobre nuestros cursos</a>
       </li>
 
       <li class="widget-curso">
@@ -103,7 +103,7 @@ incluirTemplate('header');
           Cupo:
           <span class="widget-curso__info">20</span>
         </p>
-        <a href="entrada.php" class="boton boton--secundario">Más Información sobre nuestros cursos</a>
+        <a href="cursos.php" class="boton boton--secundario">Más Información sobre nuestros cursos</a>
       </li>
     </ul>
   </aside>

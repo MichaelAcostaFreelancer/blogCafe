@@ -11,21 +11,22 @@ enlaces[0].textContent = 'Sobre Nosotros'
 enlaces[0].classList.add('nueva__clase')
 // enlaces[0].classList.remove('navegacion__enlace')
 
-const nuevoEnlace = document.createElement('A');
+
+  // const nuevoEnlace = document.createElement('A');
 //Agregar HREF
-nuevoEnlace.href = 'https://michael-tienda-virtual.netlify.app';
+  // nuevoEnlace.href = 'https://michael-tienda-virtual.netlify.app';
 
 //Agregar TEXTO
-nuevoEnlace.textContent = 'Tienda virtual';
+  // nuevoEnlace.textContent = 'Tienda virtual';
 
 //Agregar CLASE
-nuevoEnlace.classList.add('navegacion__enlace');
+  // nuevoEnlace.classList.add('navegacion__enlace');
 
 //Agregar al documento
-const navegacion = document.querySelector('.navegacion');
-navegacion.appendChild(nuevoEnlace);
+  // const navegacion = document.querySelector('.navegacion');
+  // navegacion.appendChild(nuevoEnlace);
 
-console.log(nuevoEnlace);
+  // console.log(nuevoEnlace);
 
 
 
